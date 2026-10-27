@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color apramed_blue
+color bg
+drawable btn_back
+drawable btn_c
+drawable btn_down
+drawable btn_e
+drawable btn_etdrs
+drawable btn_galeria
+drawable btn_ishihara
+drawable btn_lancaster
+drawable btn_lea
+drawable btn_left
+drawable btn_letras
+drawable btn_numeros
+drawable btn_ok
+drawable btn_ph
+drawable btn_piktotea
+drawable btn_rg
+drawable btn_right
+drawable btn_smartbox
+drawable btn_up
+drawable dpad_bg
+drawable logo_apramed
+drawable status_bg
+id dpadContainer
+id grid
+id statusBar
+id statusDot
+id statusText
+layout activity_main
+mipmap ic_launcher
+string app_name
+style AppTheme

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable_dpad_bg.xml.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable\\dpad_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_lancaster.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_lancaster.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_e.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_e.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_right.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_right.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_piktotea.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_piktotea.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable_status_bg.xml.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable\\status_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_left.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_left.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_letras.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_letras.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_ok.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_galeria.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_galeria.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_c.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_c.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_lea.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_lea.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_smartbox.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_smartbox.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.apramed.smartchartrc.app-debug-4:/drawable-nodpi_btn_back.png.flat",
+        "source": "com.apramed.smartchartrc.app-main-6:/drawable-nodpi/btn_back.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_logo_apramed.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\logo_apramed.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_etdrs.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_etdrs.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_ph.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_ph.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_down.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_down.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_rg.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_rg.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_numeros.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_numeros.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_ishihara.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_ishihara.png"
+    },
+    {
+        "merged": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-debug-4:\\drawable-nodpi_btn_up.png.flat",
+        "source": "C:\\Users\\OptosAdmin\\.gradle\\daemon\\8.14.3\\com.apramed.smartchartrc.app-main-6:\\drawable-nodpi\\btn_up.png"
+    }
+]

@@ -1,0 +1,4 @@
+com.apramed.smartchartrc.test.app-androidTest-0 C:\Users\OptosAdmin\Desktop\SmartChartRC\SmartChartRC\app\build\generated\res\resValues\androidTest\debug
+com.apramed.smartchartrc.test.app-mergeDebugAndroidTestResources-1 C:\Users\OptosAdmin\Desktop\SmartChartRC\SmartChartRC\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.apramed.smartchartrc.test.app-mergeDebugAndroidTestResources-2 C:\Users\OptosAdmin\Desktop\SmartChartRC\SmartChartRC\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.apramed.smartchartrc.test.app-debugAndroidTest-3 C:\Users\OptosAdmin\Desktop\SmartChartRC\SmartChartRC\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

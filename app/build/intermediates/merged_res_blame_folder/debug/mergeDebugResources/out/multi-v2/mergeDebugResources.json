@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.apramed.smartchartrc.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\OptosAdmin\\Desktop\\SmartChartRC\\SmartChartRC\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "139",
+                        "endColumns": "50",
+                        "endOffsets": "185"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OptosAdmin\\Desktop\\SmartChartRC\\SmartChartRC\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,140",
+                        "endLines": "2,3,10",
+                        "endColumns": "46,36,12",
+                        "endOffsets": "97,134,493"
+                    },
+                    "to": {
+                        "startLines": "2,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,190",
+                        "endLines": "2,3,10",
+                        "endColumns": "46,36,12",
+                        "endOffsets": "97,134,543"
+                    }
+                }
+            ]
+        }
+    ]
+}
