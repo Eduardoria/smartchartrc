@@ -23,7 +23,7 @@ public final class KeyMap {
     public static final int LANCASTER = KeyEvent.KEYCODE_7;
     public static final int PONTO_FIX = KeyEvent.KEYCODE_MENU;
     public static final int GALERIA   = 96;
-    public static final int SMARTBOX  = KeyEvent.KEYCODE_S;
+    public static final int SMARTBOX  = KeyEvent.KEYCODE_MEDIA_FAST_FORWARD;
 
     // D-pad (iguais ao controle remoto original)
     public static final int UP    = KeyEvent.KEYCODE_DPAD_UP;
